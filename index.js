@@ -10,7 +10,7 @@ const errorpage=document.querySelector(".error-tab");
 // const searchinput = document.querySelector("data-searchinput");
 
 // variables needed
-const API_KEY="28cf9f1d8af50d9ce475e46d96dc7abc";
+const API_KEY=""
 // let currenttab=userTab;
 // currenttab.classList.add("current-tab");
 let currentTab= userTab;
